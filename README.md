@@ -7,8 +7,16 @@
 
 📚 Various programming languages : I am proficient in many languages, primarily Python and Java. Recently, I have increased my work in the Java area.
 
+🔗Certificates and Training: I think it is the key component of improvement.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills
+Programming Languages: Python, Node.js, Java, C++
+Libraries and Frameworks: TensorFlow, PyTorch, Flask, Express
+Tools: Docker, Kubernetes, AWS, Git
+Data Analysis: Data preprocessing, data visualization, statistical analysis
 <!--
 **YusufTufan/YusufTufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
