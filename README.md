@@ -1,11 +1,12 @@
 ## I am Yusuf👋
-💬 Web Field: I have completed various projects using HTML, CSS, JavaScript, and Angular in the web field.
+💬 Web Field:I have completed various projects using HTML, CSS, JavaScript, and Angular in the web field.I have a completed project.
 
-🤖 Chatbot Development: Building intelligent and responsive chatbots using state-of-the-art NLP techniques.
-🌐 Model Deployment: Experience in deploying models on servers and ensuring seamless integration with backend systems.
-🔗 Backend Communication: Developing APIs and backend systems to facilitate communication between deployed models and various applications.
-🖼 Image Processing: Projects on image classification, object detection, and segmentation.
-📚 Natural Language Processing: Text classification, sentiment analysis, language modeling, text generation and LLM.
+🌐 Web Backend I have supported my web projects using ASP.NET and Firebase.
+
+🖼 Image Processing: I have worked in image processing. It is an area I am interested in and trying to develop further.
+
+📚 Various programming languages : I am proficient in many languages, primarily Python and Java. Recently, I have increased my work in the Java area.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
