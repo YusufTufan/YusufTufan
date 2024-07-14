@@ -16,6 +16,8 @@ Hello, I am Yusuf. In the past, I worked more intensively in the web field. Curr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 **Skills**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
