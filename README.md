@@ -13,10 +13,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills
-Programming Languages: Python, Node.js, Java, C++
-Libraries and Frameworks: TensorFlow, PyTorch, Flask, Express
-Tools: Docker, Kubernetes, AWS, Git
-Data Analysis: Data preprocessing, data visualization, statistical analysis
+
+Programming Languages: Python, Java, Angular, C#
+
+Tools: Git
+
+Libraries and Frameworks: OpenCV, TenserFlow
+
+Image Processing:Various image analyses and enhancements.
 <!--
 **YusufTufan/YusufTufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
