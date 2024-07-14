@@ -1,26 +1,26 @@
 ## I am Yusuf👋
-💬 Web Field:I have completed various projects using HTML, CSS, JavaScript, and Angular in the web field.I have a completed project.
+💬 **Web Field**:I have completed various projects using HTML, CSS, JavaScript, and Angular in the web field.I have a completed project.
 
-🌐 Web Backend I have supported my web projects using ASP.NET and Firebase.
+🌐 **Web Backend**: I have supported my web projects using ASP.NET and Firebase.
 
-🖼 Image Processing: I have worked in image processing. It is an area I am interested in and trying to develop further.
+🖼 **Image Processing**: I have worked in image processing. It is an area I am interested in and trying to develop further.
 
-📚 Various programming languages : I am proficient in many languages, primarily Python and Java. Recently, I have increased my work in the Java area.
+📚 **Various programming language** : I am proficient in many languages, primarily Python and Java. Recently, I have increased my work in the Java area.
 
-🔗Certificates and Training: I think it is the key component of improvement.
+🔗 **Certificates and Training**: I think it is the key component of improvement.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills
+**Skills**
 
-Programming Languages: Python, Java, Angular, C#
+**Programming Languages**: Python, Java, Angular, C#
 
-Tools: Git
+**Tools**: Git
 
-Libraries and Frameworks: OpenCV, TenserFlow
+**Libraries and Frameworks**: OpenCV, TenserFlow
 
-Image Processing:Various image analyses and enhancements.
+**Image Processing**: Various image analyses and enhancements.
 <!--
 **YusufTufan/YusufTufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
