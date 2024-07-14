@@ -1,5 +1,5 @@
 ## I am Yusuf👋
-💬 Large Language Models: Expertise in training and fine-tuning large language models for various applications.
+💬 Web Field: I have completed various projects using HTML, CSS, JavaScript, and Angular in the web field.
 
 🤖 Chatbot Development: Building intelligent and responsive chatbots using state-of-the-art NLP techniques.
 🌐 Model Deployment: Experience in deploying models on servers and ensuring seamless integration with backend systems.
