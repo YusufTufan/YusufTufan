@@ -16,13 +16,13 @@
 **Skills**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Programming Languages**: Python, Java, Angular, C#
+**.** **Programming Languages**: Python, Java, Angular, C#
 
-**Tools**: Git
+**.** **Tools**: Git
 
-**Libraries and Frameworks**: OpenCV, TenserFlow
+**.** **Libraries and Frameworks**: OpenCV, TenserFlow
 
-**Image Processing**: Various image analyses and enhancements.
+**.** **Image Processing**: Various image analyses and enhancements.
 <!--
 **YusufTufan/YusufTufan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
