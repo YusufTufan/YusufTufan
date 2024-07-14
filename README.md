@@ -1,5 +1,6 @@
 ## I am Yusuf👋
 💬 Large Language Models: Expertise in training and fine-tuning large language models for various applications.
+
 🤖 Chatbot Development: Building intelligent and responsive chatbots using state-of-the-art NLP techniques.
 🌐 Model Deployment: Experience in deploying models on servers and ensuring seamless integration with backend systems.
 🔗 Backend Communication: Developing APIs and backend systems to facilitate communication between deployed models and various applications.
