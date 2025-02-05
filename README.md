@@ -20,9 +20,9 @@ Hello, I am Yusuf. In the past, I worked more intensively in the web field. Curr
 **Skills**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**>** **Programming Languages**: Python, Java, Angular, C#
+**>** **Programming Languages**:  JavaScript, TypeScript, Angular, C#, Python, Matlab, Java
 
-**>** **Tools**: Git
+**>** **Tools**: Git ,Visual programming, Object Oriented Programming, Data Structures, Docker
 
 **>** **Libraries and Frameworks**: OpenCV, TenserFlow
 
