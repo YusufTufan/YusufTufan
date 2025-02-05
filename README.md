@@ -16,11 +16,11 @@ Hello, In the past, I worked more intensively in the web field. Currently, I am 
 **Skills**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**>** **Programming Languages**:  JavaScript, TypeScript, Angular, C#, Python, Matlab, Java
+**>** **Programming Languages**:  JavaScript, TypeScript, Angular, C#, Python, Matlab, Java, Sql
 
 **>** **Tools**: Git ,Visual programming, Object Oriented Programming, Data Structures, Docker
 
-**>** **Libraries and Frameworks**: OpenCV, TenserFlow
+**>** **Libraries, Frameworks and Technologies**: OpenCV, TenserFlow, Asp.Net, Firebase
 
 **>** **Image Processing**: Various image analyses and enhancements.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
