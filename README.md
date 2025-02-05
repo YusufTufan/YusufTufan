@@ -17,8 +17,11 @@ Hello, In the past, I worked more intensively in the web field. Currently, I am 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **>** **Programming Languages**:  JavaScript, TypeScript, Angular, C#, Python, Matlab, Java
+
 **>** **Tools**: Git ,Visual programming, Object Oriented Programming, Data Structures, Docker
+
 **>** **Libraries and Frameworks**: OpenCV, TenserFlow
+
 **>** **Image Processing**: Various image analyses and enhancements.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
