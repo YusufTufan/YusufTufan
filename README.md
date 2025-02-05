@@ -13,9 +13,9 @@ Hello, I am Yusuf. In the past, I worked more intensively in the web field. Curr
 🔗 **Certificates and Training**: I think it is the key component of improvement.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=dark)
+![YusufTufan's Stats](https://github-readme-stats.vercel.app/api?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![YusufTufan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 **Skills**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
