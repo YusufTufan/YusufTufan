@@ -4,9 +4,9 @@
 
 ### 📌 Quick Info
 
-- 🔧 Previously focused on **Web Development**
-- 🔍 Currently improving skills in **Java**, **Databases**, and **AI**
-- 💬 Passionate about **learning**, **problem-solving**, and **continuous improvement**
+- 🤖 Recently focused on **Machine Learning** and deepening expertise in **Python**
+- 🎯 Aiming to specialize in the field by building real-world projects and gaining hands-on experience
+- 🌐 Previously worked in **Web Development** and enjoyed working on **Image Processing** tasks as well
 
 ---
 
