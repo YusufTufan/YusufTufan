@@ -56,7 +56,7 @@
   <a href="yusufftufan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yusuf-tufan" target="_blank">
+  <a href="https://www.linkedin.com/in/yusuf-tufan-761b412aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YusufTufan" target="_blank">
