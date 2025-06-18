@@ -7,10 +7,9 @@
 
 ### 📌 Quick Info
 
-- 🤖 Recently focused on **Machine Learning** and deepening expertise in **Python**
-- 🎯 Aiming to specialize in the field by building real-world projects and gaining hands-on experience
-- 🌐 Previously worked in **Web Development** and enjoyed working on **Image Processing** tasks as well
-
+- 🤖 Currently focusing on **Machine Learning** and improving skills in **Python**
+- 🎯 Aiming to specialize in the field through real-world projects and hands-on learning
+- 🌐 Previously worked on **Web Development** projects and enjoyed exploring **Image Processing**
 ---
 
 ### 🧰 Tech Stack
@@ -48,7 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 
 ---
-### Coding Languages
+### 👨‍💻 Tools I Use
 <p align="left">
   <a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
