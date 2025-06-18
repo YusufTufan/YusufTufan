@@ -42,16 +42,13 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007ACC?style=for-the-badge)
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🔗 Let's Connect
-
 <p align="center">
   <a href="yusufftufan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -63,5 +60,4 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
