@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=00C6FF&center=true&vCenter=true&multiline=true&width=400&lines=Web+%26+Backend+Developer;AI+%26+Image+Processing+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ---
 
