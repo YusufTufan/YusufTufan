@@ -44,11 +44,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
