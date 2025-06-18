@@ -38,7 +38,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-9B59B6?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007ACC?style=for-the-badge)
 
 ---
