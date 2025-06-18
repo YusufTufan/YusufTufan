@@ -50,14 +50,6 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YusufTufan&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
