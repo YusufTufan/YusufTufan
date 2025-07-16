@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Yusuf Tufan 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#00bfff">Yusuf Tufan</span></h1>
 
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
@@ -92,7 +96,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufTufan&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
 
 ---
 
