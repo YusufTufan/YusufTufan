@@ -159,6 +159,7 @@
 </p>
 
 ---
+## 🐍 Contribution Snake is hungry!
 ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
