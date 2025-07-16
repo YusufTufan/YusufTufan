@@ -14,15 +14,35 @@
 
 ### 🧰 Tech Stack
 
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
+#### 💻 Languages
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" />
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" />
+</a>
 
 #### 🌐 Frontend & Backend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
