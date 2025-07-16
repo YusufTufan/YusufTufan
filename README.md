@@ -77,14 +77,14 @@
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
+<a href="https://www.knime.com/" target="_blank">
+  <img src="https://img.shields.io/badge/KNIME-FFB000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHdpZHRoPSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwMi43IDI0MC43bC0zLjYtMi4xTDQ5LjYgMTQ4LjV2LTQuMWwxNDkuNS04Ni4zLTcuMi00LjEtMTU4LjcgOTEuOXYxMC4yTDE5NS41IDI1Mmw3LjItN3oiLz48L3N2Zz4=&logoColor=black" />
+</a>
 <a href="https://opencv.org/" target="_blank">
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-  <img src="https://img.shields.io/badge/Data%20Structures-%23007ACC?style=for-the-badge" />
 </a>
 
 
