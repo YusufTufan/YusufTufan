@@ -9,13 +9,13 @@
 
 ---
 
-### 📌 Quick Info
+### <p align="center">📌 Quick Info</p>
 
-- 🤖 Currently focusing on **Machine Learning** and improving skills in **Python**
-- 🎯 Aiming to specialize in the field through real-world projects and hands-on learning
-- 🌐 Previously worked on **Web Development** projects and enjoyed exploring **Image Processing**
----
-
+<p align="center">
+  🤖 Currently focusing on Machine Learning and improving skills in Python<br>
+  🎯 Aiming to specialize in the field through real-world projects and hands-on learning<br>
+  🌐 Previously worked on Web Development projects and enjoyed exploring Image Processing
+</p>
 
 ### <p align="center">🧰 Tech Stack</p>
 
