@@ -118,19 +118,22 @@
 </p>
 
 
-![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
+<p align="center">
+  ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
+</p>
 
+### <p align="center">🔗 Let's Connect</p>
 
-### 🔗 Let's Connect
-
-<a href="mailto:yusufftufan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yusuf-tufan-761b412aa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/YusufTufan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:yusufftufan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yusuf-tufan-761b412aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YusufTufan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
