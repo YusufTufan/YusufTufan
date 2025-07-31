@@ -118,9 +118,9 @@
 </p>
 
 
-<p align="center">
+
   ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
-</p>
+
 
 ### <p align="center">🔗 Let's Connect</p>
 
