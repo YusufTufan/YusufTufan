@@ -94,15 +94,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufTufan&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-
----
 
 ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
 
