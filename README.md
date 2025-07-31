@@ -17,9 +17,9 @@
 ---
 
 
-### 🧰 Tech Stack
+### <p align="center">🧰 Tech Stack</p>
 
-#### 🧠 AI & Machine Learning
+#### <p align="center">🧠 AI & Machine Learning</p>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-#### 📦 Tools & Databases
+#### <p align="center">📦 Tools & Databases</p>
 
 <p align="center">
    <a href="https://www.sqlite.org/" target="_blank">
@@ -68,7 +68,7 @@
 </a>
 </p>
 
-#### 💻 Languages & Frameworks
+#### <p align="center">💻 Languages & Frameworks</p>
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
