@@ -6,7 +6,7 @@
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
 
----
+
 
 ### <p align="center">📌 Quick Info</p>
 <p align="center">
@@ -128,7 +128,7 @@
   </a>
 </p>
 
----
+
 
   ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
 
