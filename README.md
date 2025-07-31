@@ -34,6 +34,9 @@
    <a href="https://www.knime.com/" target="_blank">
     <img src="https://img.shields.io/badge/KNIME-FFB000?style=for-the-badge&logo=knime&logoColor=black" />
   </a>
+  <a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-FF2B10?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
 </p>
 
 #### 📦 Tools & Databases
