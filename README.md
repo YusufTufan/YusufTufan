@@ -5,6 +5,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff">Yusuf Tufan</span></h1>
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
+
 ---
 
 ### <p align="center">📌 Quick Info</p>
@@ -13,13 +14,17 @@
   🎯 Aiming to specialize in the field through real-world projects and hands-on learning<br>
   🌐 Previously worked on Web Development projects and enjoyed exploring Image Processing
 </p>
+
 ---
 
 ### <p align="center">🧰 Tech Stack</p>
+
 ---
 
 #### <p align="center">🧠 AI & Machine Learning</p>
+
 ---
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,10 +42,12 @@
   <img src="https://img.shields.io/badge/Jupyter-FF2B10?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
 </p>
+
 ---
 
 #### <p align="center">📦 Tools & Databases</p>
 ---
+
 <p align="center">
    <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -71,6 +78,7 @@
 ---
 
 #### <p align="center">💻 Languages & Frameworks</p>
+
 ---
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
@@ -119,11 +127,11 @@
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
 </p>
+
 ---
 
   ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
 
----
 
 ### <p align="center">🔗 Let's Connect</p>
 ---
@@ -138,5 +146,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
