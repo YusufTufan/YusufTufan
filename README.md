@@ -85,11 +85,6 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" />
   </a>
-</p>
-
-#### 🌐 Frontend & Backend Development
-
-<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
