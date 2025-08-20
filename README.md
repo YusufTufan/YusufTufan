@@ -73,6 +73,15 @@
 <a href="https://www.markdownguide.org/" target="_blank">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</a>
+<a href="https://www.vagrantup.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
+</a>
+<a href="https://atom.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" />
+</a>
 </p>
 
 
