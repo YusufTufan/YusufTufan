@@ -41,6 +41,12 @@
   <a href="https://jupyter.org/" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-FF2B10?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+</a>
+<a href="https://mlflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</a>
 </p>
 
 
