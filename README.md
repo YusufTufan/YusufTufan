@@ -125,7 +125,7 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </a>
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </a>
   <a href="https://isocpp.org/" target="_blank">
@@ -137,6 +137,9 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -153,18 +156,19 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   </a>
   <a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
 </p>
+
 
 
 
