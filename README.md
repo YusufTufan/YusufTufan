@@ -173,7 +173,7 @@
 </p>
 
 
- ![Snake animation](https://github.com/YusufTufan/YusufTufan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff)
+![Snake animation](https://raw.githubusercontent.com/YusufTufan/YusufTufan/output/github-contribution-grid-snake-dark.svg)
 
 
 ### <p align="center">🔗 Let's Connect</p>
