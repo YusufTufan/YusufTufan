@@ -173,8 +173,11 @@
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/YusufTufan/YusufTufan/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Yusuf+Tufan!;Full-Stack+Developer;Sürekli+öğrenmeye+ve+gelişmeye+açığım.;Profilime+hoş+geldin!+%3A)" alt="Typing SVG" />
+  </a>
+</p>
 
 ### <p align="center">🔗 Let's Connect</p>
 ---
