@@ -6,8 +6,6 @@
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
 
-
-
 ### <p align="center">📌 Quick Info</p>
 <p align="center">
   🤖 Currently focusing on Machine Learning and improving skills in Python<br>
@@ -22,8 +20,6 @@
 ---
 
 #### <p align="center">🧠 AI & Machine Learning</p>
-
-
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -62,10 +58,7 @@
 </p>
 
 
-
-
 #### <p align="center">📦 Tools & Databases</p>
-
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
@@ -107,10 +100,7 @@
 </p>
 
 
-
-
 #### <p align="center">💻 Languages & Frameworks</p>
-
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
@@ -172,12 +162,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Yusuf+Tufan!;Full-Stack+Developer;Sürekli+öğrenmeye+ve+gelişmeye+açığım.;Profilime+hoş+geldin!+%3A)" alt="Typing SVG" />
-  </a>
-</p>
 
 ### <p align="center">🔗 Let's Connect</p>
 ---
