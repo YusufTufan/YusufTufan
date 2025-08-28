@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufTufan&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff">Yusuf Tufan</span></h1>
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
