@@ -6,6 +6,8 @@
 <p align="center"><strong>Computer Engineering Student | AI & Data Science Enthusiast</strong></p>
 <p align="center">Pamukkale University • Based in Antalya / Denizli</p>
 
+---
+
 ### <p align="center">📌 Quick Info</p>
 <p align="center">
   🤖 Currently focusing on Machine Learning and improving skills in Python<br>
@@ -162,6 +164,7 @@
   </a>
 </p>
 
+---
 
 ### <p align="center">🔗 Let's Connect</p>
 ---
