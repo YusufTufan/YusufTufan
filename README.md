@@ -43,9 +43,6 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.knime.com/" target="_blank">
     <img src="https://img.shields.io/badge/KNIME-FFB000?style=for-the-badge&logo=knime&logoColor=black" />
   </a>
@@ -91,9 +88,6 @@
   <a href="https://atom.io/" target="_blank">
     <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
@@ -136,9 +130,6 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
