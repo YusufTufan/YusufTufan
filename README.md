@@ -52,6 +52,9 @@
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-FF2B10?style=for-the-badge&logo=jupyter&logoColor=white" />
   </a>
+  <a href="https://www.spyder-ide.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Spyder-444158?style=for-the-badge&logo=spyder&logoColor=white" />
+  </a>
   <a href="https://airflow.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   </a>
