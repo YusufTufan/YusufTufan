@@ -311,8 +311,8 @@
 
 ### <p align="center">📊 GitHub Stats</p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YusufTufan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufTufan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YusufTufan&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YusufTufan&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YusufTufan&theme=tokyonight&hide_border=true" />
